@@ -17,10 +17,11 @@ body > h1 {
 h3 {
     position: relative;
     top: 0px;
-    left: 320px;
+    left: 300px;
     margin-top: 0px;
+    margin-bottom: 9px;
     padding: 0px;
-    width: 82px;
+    width: 103px;
     text-align: center;
 }
 #chicken {
