@@ -1,3 +1,38 @@
-p {
-    background-color: red;
+* {
+    box-sizing: border-box;
+}
+body > h1 {
+    text-align: center;
+    margin: 30px 0px 55px 0px;
+}
+.box {
+    width: 31%;
+    float: left;
+    text-align: justify;
+    padding: 0px 12px 10px;
+    margin: 0px 15px 25px 15px; 
+    background-color: lightgrey;
+    border: 2px solid black;
+}
+h3 {
+    position: relative;
+    top: 0px;
+    left: 320px;
+    margin-top: 0px;
+    padding: 0px;
+    width: 82px;
+    text-align: center;
+}
+#chicken {
+    background-color: #D59898;
+    border: 1px solid black;
+}
+#beef {
+    background-color: #C14543;
+    color: white;
+    border: 1px solid black;
+}
+#sushi {
+    background-color: #E5D198;
+    border: 1px solid black;
 }
