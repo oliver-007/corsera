@@ -1,0 +1,48 @@
+body {
+    background-color: maroon;
+}
+        /** navbar start**/
+#header-nav {
+    background-color: yellow;
+    border-radius: 0;
+    border: 0;
+}
+.navbar-brand {
+    color: black;
+    font-weight: 900;
+    font-family: cursive;
+}
+.navbar-nav {
+    text-align: center;
+}
+#chicken {
+    border: 1px solid brown;
+    background-color: burlywood;
+}
+#beef {
+    border: 1px solid black;
+    background-color: rgb(196, 13, 13);
+}
+#sushi {
+    border: 1px solid violet;
+    background-color: yellowgreen;
+}
+        /*navbar end*/
+
+        /*body start*/
+#ourmenu {
+    font-family: cursive;
+    color: yellow;
+    padding: 20px 0px 45px;
+}
+#parachick {
+    text-align: center;
+    font-family: cursive;
+    background-color: rgb(236, 236, 87);   
+    margin-bottom: 0px;
+}
+#parachick2 {
+    text-align: justify;
+    background-color: rgb(236, 236, 87);
+}
+        /* body end*/
